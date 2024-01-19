@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: "Curry or not Curry",
-      link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+      link: [{ rel: "icon", type: "image/svg", href: "/curry.svg" }],
     },
   },
   devtools: { enabled: true },
